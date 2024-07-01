@@ -17,6 +17,8 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2"
   }
 }
